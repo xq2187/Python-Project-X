@@ -74,9 +74,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-Yashi Huang (yl3600) 
+Yashi Huang (yh3068) 
 Yuhui Gao (yg2606)
-Xuche Qiu (xq2187)
+Xuchen Qiu (xq2187)
 Yusang Liu (yl3600)
 
 ## License
