@@ -1,18 +1,18 @@
-Property_type:                  the type of the airbnb property
+Property_type:               the type of the airbnb property( Apartment, House, boat, cave, Castle, etc)
 
-room_type:                   the type of rooms(private or shared)
+room_type:                   the type of rooms(Entire home/apt, Private room, Shared room)
 
 accommodates:                number of max accommodates
 
 bathrooms:                   number of bathrooms available
 
-bed_type:                    type of beds
+bed_type:                    type of beds (real bed, airbed, couch, puton, pull-out sofa)
 
-cancellation_policy:         how flexible the cancellation policy is
+cancellation_policy:         how flexible the cancellation policy is (super strict, strict, flexible, moderate)
 
 cleaning_fee:                whether there is a cleaning fee
 
-city:                        the city the property located in
+city:                        the city the property located in (NYC, LA, Chicago, etc)
 
 first_review:                date when the property first reviewed
 
