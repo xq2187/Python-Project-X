@@ -1,0 +1,45 @@
+Property_type:                  the type of the airbnb property
+
+room_type:                   the type of rooms(private or shared)
+
+accommodates:                number of max accommodates
+
+bathrooms:                   number of bathrooms available
+
+bed_type:                    type of beds
+
+cancellation_policy:         how flexible the cancellation policy is
+
+cleaning_fee:                whether there is a cleaning fee
+
+city:                        the city the property located in
+
+first_review:                date when the property first reviewed
+
+host_has_profile_pic:        whether there is a picture description of the property
+
+host_identity_verified:      whether the host’ identity is verified
+
+host_response_rate:          ratio of host responds to reviews
+
+host_since:                  date when the property is posted
+
+instant_bookable:            whether the property is instant bookable
+
+last_review:                 date when the property first reviewed
+
+latitude:                    latitude of the property
+
+longitude:                   longitude of the property
+
+neighbourhood:               neighborhood of the property
+
+number_of_reviews:           number of reviews of the property
+
+review_scores_rating:        scores given by reviews
+
+zipcode:                     zip code of the property
+
+bedrooms:                    number of bedrooms
+
+beds:                        number of beds
