@@ -1,8 +1,8 @@
 # Python-Project-X
-Tools for Analytics Project
-# Project Title
+Tools for Analytics Project (section 2)
+# Predicting the Airbnb Reservation Price
 
-One Paragraph of project description goes here
+Our project is making a reasonable and sensible prediction for Airbnb reservation price.
 
 ## Getting Started
 
@@ -74,9 +74,10 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+Yashi Huang (yl3600) 
+Yuhui Gao (yg2606)
+Xuche Qiu (xq2187)
+Yusang Liu (yl3600)
 
 ## License
 
