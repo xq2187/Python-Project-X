@@ -1,0 +1,28 @@
+# Library dependencies for the python code.  You need to install these with
+# 'pip install -r requirements.txt' before you can run this.
+
+#### ESSENTIAL LIBRARIES FOR MAIN FUNCTIONALITY ####
+
+# Numpy and dataframe manipulation
+numpy>=1.15
+pandas
+
+# For warning control
+warnings
+
+# For statistical calculations
+scipy>=1.1 
+
+# Plotting graphs
+matplotlib>=2.0.0
+seaborn
+
+# Datteime objects
+time
+datetime
+
+# Machine learning and related libraries
+sklearn
+lightgbm
+catboost
+xgboost
