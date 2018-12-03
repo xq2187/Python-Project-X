@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://www.longfordleader.ie/resizer/750/563/true/1475831179315.jpg--longford.jpg?1475831180000"><br><br>
+</div>
 
 # Python-Project-X (section 2)
 Tools for Analytics Project (section 2)
@@ -40,15 +43,19 @@ To install the XGBoost library:
 End with an example of getting some data out of the system or using it for a little demo
 
 
-## Run instructions
+## Run Instructions
+1. Download data.csv and Project_FinalVersion.ipynb.
 
+2. Change path variable to the absolute path of data.csv file.
+
+3. Run Project_FinalVersion.ipynb file and get the anticipated result.
 
 
 ## Authors
 
 Yashi Huang (yh3068) # data preprocessing part, commitment shown as "hys19960"
 
-Yuhui Gao (yg2606) # RandomForest and XGBoost part,commitment shown as "#GMundell2"
+Yuhui Gao (yg2606) # RandomForest and XGBoost part,commitment shown as "GMundell2"
 
 Xuchen Qiu (xq2187) # LightGBM and CatBoost part, commitment shown as "Your Name" and "xq2187" 
 
