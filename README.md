@@ -9,7 +9,7 @@ Tools for Analytics Project (section 2)
 
 ## Predicting the Airbnb House Price
 
-Our project is making a reasonable and sensible prediction for Airbnb houses price. In general, there are many features of a property that may affect its price. We are interested in how these features affect the pricing on the Airbnb property. The origin dataset we obtained on the Internet include information on number of people it can accommodate, number of bedrooms and bathrooms, etc. We first analyze the data by doing data preprocessing, where we categorize the data and deal with missing values. Then we conduct statistical analysis on the data and plot corresponding plots and curves. After that, we split our original dataset into test (80%) and train (20%). Finally we use machine learning models including LightGBM, CatBoost, RandomForest and XGBoost to regress and predict the test dataset’s house price and compare the MSE of these models. 
+Our project is to make a reasonable and sensitive prediction for Airbnb houses price. In general, there are many features of a property that may affect its price. We are interested in how these features affect the price of the Airbnb property. The original dataset we obtained on the Internet includes information of number of people it can accommodate, number of bedrooms and bathrooms, etc. We first analyze the data by doing data preprocessing, where we categorize the data and deal with missing values. Then we conduct statistical analysis on the data and draw corresponding plots and curves. After that, we split our original dataset into train set(80%) and test set(20%). Finally we use machine learning algorithms including LightGBM, CatBoost, RandomForest and XGBoost to fit the model and predict the test dataset’s house price and compare the mean absolute error and mean squared error of these models. 
 
 
 ## Installation Instructions
@@ -46,9 +46,9 @@ To install the XGBoost library:
 
 2. pip install necessary libraries.
 
-3. Change path variable to the absolute path of data.csv file.
+3. Assign path variable with the absolute path of data.csv that downloaded in your computer.
 
-4. Run Project_FinalVersion.ipynb file and get the anticipated result.
+4. Open Project_FinalVersion.ipynb file and follow the instructions inside to get the anticipated result.
 
 
 ## Authors
